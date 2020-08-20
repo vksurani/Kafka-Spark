@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/Users/jemssavani/IdeaProjects/Kafka-Spark/"), "kafka-spark")...
-[debug] Done updating ProjectRef(uri("file:/Users/jemssavani/IdeaProjects/Kafka-Spark/"), "kafka-spark")
+[debug] Updating ProjectRef(uri("file:/Users/vasusurani/IdeaProjects/KafkaSparkStreaming/"), "kafkasparkstreaming")...
+[debug] Done updating ProjectRef(uri("file:/Users/vasusurani/IdeaProjects/KafkaSparkStreaming/"), "kafkasparkstreaming")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
